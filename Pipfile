@@ -11,6 +11,7 @@ ipykernel = "*"
 kaggle = "*"
 pandas = "*"
 matplotlib = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
